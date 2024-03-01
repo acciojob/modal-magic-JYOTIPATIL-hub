@@ -1,4 +1,8 @@
 /*  your css code here. If applicable */
+h2{
+	background-color:green;
+	color:white;
+}
 .modal {
             display: none; /* Hidden by default */
             position: fixed;
